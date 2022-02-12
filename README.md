@@ -1,6 +1,12 @@
 # CRISCE: Automatically Generating Critical Driving Scenarios From Car Accident Sketches
 
-This document describes how to install and use CRISCE (CRItical SCEnario), the tool developed by Jasim Ahmed and others for automatically generate simulations of car crashed from accident sketches using [BeamNG.tech](https://beamng.tech/).
+- This document describes how to install and use CRISCE (CRItical SCEnario). I developed this as a result of my Master Thesis at the Chair Of Software Engineering II, University Of Passau [Link](https://github.com/se2p) for automatically generate simulations of a car crashed from accident sketches using [BeamNG.tech](https://beamng.tech/).
+- For an updated version of the CRISCE tool, refer to [Link](https://github.com/se2p/crisce-tool).
+- Three research papers based on CRISCE have been submitted for review at different conferences. Links to the papers will be added as soon as the research papers are published.
+- If you have any queries related to CRISCE kindly report it as an issue on the [Link](https://github.com/se2p/crisce-tool/issues).
+- Enjoy making simulation test cases for testing of your ADAS stacks.
+
+
 
 A video demonstration of the tool is available on [YouTube](https://youtu.be/G8GJl4wTchI).
 
