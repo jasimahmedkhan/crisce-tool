@@ -5,7 +5,7 @@
 - For an updated version of the CRISCE tool, refer to [Link](https://github.com/se2p/crisce-tool).
 - Three research papers based on CRISCE have been submitted for review at different conferences. Links to the papers will be added as soon as the research papers are published.
 - If you have any queries related to CRISCE kindly report it as an issue on the [Link](https://github.com/se2p/crisce-tool/issues).
-- Enjoy making simulation test cases for testing of your ADAS stacks.
+- Enjoy making simulation-based test cases for testing of your ADAS stacks.
 
 
 
